@@ -1,0 +1,12 @@
+__d(function (global, _require, module, exports, _dependencyMap) {
+  module.exports = _require(_dependencyMap[0], "react-native/Libraries/Image/AssetRegistry").registerAsset({
+    "__packager_asset": true,
+    "httpServerLocation": "/assets/icons",
+    "width": 200,
+    "height": 200,
+    "scales": [1],
+    "hash": "558914264bc809d56de094696a8a6659",
+    "name": "event",
+    "type": "png"
+  });
+});

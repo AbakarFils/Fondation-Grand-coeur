@@ -1,0 +1,13 @@
+__d(function (global, _require, module, exports, _dependencyMap) {
+  module.exports = _require(_dependencyMap[0], "react-native/Libraries/Image/AssetRegistry").registerAsset({
+    "__packager_asset": true,
+    "httpServerLocation": "/assets/icons",
+    "width": 512,
+    "height": 512,
+    "scales": [1],
+    "hash": "e14ffc9210bfd25700d5973b0a345ab1",
+    "name": "calendar",
+    "type": "png",
+    "fileHashes": ["e14ffc9210bfd25700d5973b0a345ab1"]
+  });
+});

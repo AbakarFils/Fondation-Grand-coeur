@@ -1,0 +1,12 @@
+__d(function (global, _require, module, exports, _dependencyMap) {
+  module.exports = _require(_dependencyMap[0], "react-native/Libraries/Image/AssetRegistry").registerAsset({
+    "__packager_asset": true,
+    "httpServerLocation": "/assets/composant/icons",
+    "width": 394,
+    "height": 480,
+    "scales": [1],
+    "hash": "16e7cc087755360d587a511ee2e76218",
+    "name": "__firstladylauncher",
+    "type": "gif"
+  });
+});
